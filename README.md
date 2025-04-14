@@ -1,1 +1,1 @@
-Hey man, please stop looking, this is an item for my personal use.
+Hey, man, that's not what you're looking for.
