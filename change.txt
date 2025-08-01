@@ -14,7 +14,7 @@ CCTV-9,http://[2409:8087:280c:22::2e]/wh7f454c46tw2646507899_2008961691/hwltc.tv
 CCTV-10,http://hwltc.tv.cdn.zj.chinamobi ... 21236238/index.m3u8
 CCTV-11,http://hwltc.tv.cdn.zj.chinamobi ... 21236216/index.m3u8
 CCTV-12,http://hwltc.tv.cdn.zj.chinamobi ... 21236203/index.m3u8
-CCTV-13,http://hwltc.tv.cdn.zj.chinamobi ... 21236169/index.m3u8
+CCTV-13,http://[2409:8087:2801:22:100::5f]/wh7f454c46tw2022402902_2067462862/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?icpid=88888888&RTS=1754045191&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=319&online=1754045191&vqe=3
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobi ... 21236317/index.m3u8
 CCTV-15,http://hwltc.tv.cdn.zj.chinamobi ... 21236165/index.m3u8
 CCTV-16,http://[2409:8087:280c:22::2a]/wh7f454c46tw3061417768_-1988639593/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1754041935&from=61&hms_devid=542&prioritypopid=61&online=1754041935&vqe=3
