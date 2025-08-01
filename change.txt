@@ -5,8 +5,8 @@ CCTV-3,http://hwltc.tv.cdn.zj.chinamobi ... 21236244/index.m3u8
 CCTV-4,http://hwltc.tv.cdn.zj.chinamobi ... 21236442/index.m3u8
 CCTV-4欧洲,http://hwltc.tv.cdn.zj.chinamobi ... 21236378/index.m3u8
 CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobi ... 21236335/index.m3u8
-CCTV-5,http://hwltc.tv.cdn.zj.chinamobi ... 21236444/index.m3u8
-CCTV-5+,http://hwltc.tv.cdn.zj.chinamobi ... 21236306/index.m3u8
+CCTV-5,http://[2409:8087:280c:23::3f]/wh7f454c46tw2976177582_-565104191/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?icpid=88888888&RTS=1754041850&from=61&hms_devid=2451&prioritypopid=61&online=1754041850&vqe=3
+CCTV-5+,http://[2409:8087:280c:22::32]/wh7f454c46tw3032948926_-1441739429/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?icpid=88888888&RTS=1754041906&from=61&ocs=2_2409:8087:280c:23::27_80&hms_devid=541&prioritypopid=61&online=1754041906&vqe=3
 CCTV-6,http://hwltc.tv.cdn.zj.chinamobi ... 21236294/index.m3u8
 CCTV-7,http://hwltc.tv.cdn.zj.chinamobi ... 21236219/index.m3u8
 CCTV-8,http://hwltc.tv.cdn.zj.chinamobi ... 21236211/index.m3u8
@@ -17,7 +17,7 @@ CCTV-12,http://hwltc.tv.cdn.zj.chinamobi ... 21236203/index.m3u8
 CCTV-13,http://hwltc.tv.cdn.zj.chinamobi ... 21236169/index.m3u8
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobi ... 21236317/index.m3u8
 CCTV-15,http://hwltc.tv.cdn.zj.chinamobi ... 21236165/index.m3u8
-CCTV-16,http://hwltc.tv.cdn.zj.chinamobi ... 21236181/index.m3u8
+CCTV-16,http://[2409:8087:280c:22::2a]/wh7f454c46tw3061417768_-1988639593/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1754041935&from=61&hms_devid=542&prioritypopid=61&online=1754041935&vqe=3
 CCTV-17,http://hwltc.tv.cdn.zj.chinamobi ... 21236200/index.m3u8
 CCTV-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobi ... dex.m3u8?fmt=ts2hls
 CCTV-4K,http://hwltc.tv.cdn.zj.chinamobi ... dex.m3u8?fmt=ts2hls
