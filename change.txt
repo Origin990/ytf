@@ -1,49 +1,40 @@
 央视,#genre#
 CCTV-1,http://[2409:8087:280c:20::11]/wh7f454c46tw2590829161_389758613/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?icpid=88888888&RTS=1754041464&from=61&ocs=2_2409:8087:280c:22::2e_80&hms_devid=2092&prioritypopid=61&online=1754041464&vqe=3
-CCTV-2,http://hwltc.tv.cdn.zj.chinamobi ... 21236393/index.m3u8
-CCTV-3,http://hwltc.tv.cdn.zj.chinamobi ... 21236244/index.m3u8
-CCTV-4,http://hwltc.tv.cdn.zj.chinamobi ... 21236442/index.m3u8
-CCTV-4欧洲,http://hwltc.tv.cdn.zj.chinamobi ... 21236378/index.m3u8
-CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobi ... 21236335/index.m3u8
+CCTV-2,http://[2409:8087:280c:22::22]/wh7f454c46tw3801816947_-420478636/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?icpid=88888888&RTS=1754046970&from=61&hms_devid=548&prioritypopid=61&online=1754046970&vqe=3
+CCTV-3,http://[2409:8087:280c:20::11]/wh7f454c46tw3820079664_-1788797294/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?icpid=88888888&RTS=1754046988&from=61&hms_devid=2092&prioritypopid=61&online=1754046988&vqe=3
+CCTV-4,http://[2409:8087:280c:23::14]/wh7f454c46tw3828868703_2144234451/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?icpid=88888888&RTS=1754046997&from=61&hms_devid=1937&prioritypopid=61&online=1754046997&vqe=3
 CCTV-5,http://[2409:8087:280c:23::3f]/wh7f454c46tw2976177582_-565104191/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?icpid=88888888&RTS=1754041850&from=61&hms_devid=2451&prioritypopid=61&online=1754041850&vqe=3
 CCTV-5+,http://[2409:8087:280c:22::32]/wh7f454c46tw3032948926_-1441739429/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?icpid=88888888&RTS=1754041906&from=61&ocs=2_2409:8087:280c:23::27_80&hms_devid=541&prioritypopid=61&online=1754041906&vqe=3
 CCTV-6,http://hwltc.tv.cdn.zj.chinamobi ... 21236294/index.m3u8
-CCTV-7,http://hwltc.tv.cdn.zj.chinamobi ... 21236219/index.m3u8
-CCTV-8,http://hwltc.tv.cdn.zj.chinamobi ... 21236211/index.m3u8
+CCTV-7,http://[2409:8087:280c:23::25]/wh7f454c46tw3888472804_915291005/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?icpid=88888888&RTS=1754047057&from=61&hms_devid=1938&prioritypopid=61&online=1754047057&vqe=3
+CCTV-8,http://[2409:8087:280c:b020:100::10]/wh7f454c46tw3901925376_1965603861/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?icpid=88888888&RTS=1754047070&from=61&ocs=2_2409:8087:280c:22::48_80&hms_devid=2525&online=1754047070&vqe=3
 CCTV-9,http://[2409:8087:280c:22::2e]/wh7f454c46tw2646507899_2008961691/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?icpid=88888888&RTS=1754041520&from=61&hms_devid=2556&prioritypopid=61&online=1754041520&vqe=3
-CCTV-10,http://hwltc.tv.cdn.zj.chinamobi ... 21236238/index.m3u8
-CCTV-11,http://hwltc.tv.cdn.zj.chinamobi ... 21236216/index.m3u8
-CCTV-12,http://hwltc.tv.cdn.zj.chinamobi ... 21236203/index.m3u8
+CCTV-10,http://[2409:8087:280c:20::10]/wh7f454c46tw3920176260_-509116160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?icpid=88888888&RTS=1754047089&from=61&hms_devid=2092&prioritypopid=61&online=1754047089&vqe=3
+CCTV-11,http://[2409:8087:280c:23::3d]/wh7f454c46tw3931601361_1798670056/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?icpid=88888888&RTS=1754047100&from=61&hms_devid=2453&prioritypopid=61&online=1754047100&vqe=3
+CCTV-12,http://[2409:8087:280c:22::33]/wh7f454c46tw3941577229_-376212509/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?icpid=88888888&RTS=1754047110&from=61&ocs=2_2409:8087:280c:23::2a_80&hms_devid=541&prioritypopid=61&online=1754047110&vqe=3
 CCTV-13,http://[2409:8087:2801:22:100::5f]/wh7f454c46tw2022402902_2067462862/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?icpid=88888888&RTS=1754045191&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=319&online=1754045191&vqe=3
-CCTV-14,http://hwltc.tv.cdn.zj.chinamobi ... 21236317/index.m3u8
-CCTV-15,http://hwltc.tv.cdn.zj.chinamobi ... 21236165/index.m3u8
+CCTV-14,http://[2409:8087:280c:22::35]/wh7f454c46tw3952443668_1539995715/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8?icpid=88888888&RTS=1754047121&from=61&hms_devid=552&prioritypopid=61&online=1754047121&vqe=3
+CCTV-15,http://[2409:8087:280c:b020:100::12]/wh7f454c46tw3965151690_-1457101977/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?icpid=88888888&RTS=1754047133&from=61&ocs=2_2409:8087:280c:23::14_80&hms_devid=2526&online=1754047133&vqe=3
 CCTV-16,http://[2409:8087:280c:22::2a]/wh7f454c46tw3061417768_-1988639593/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1754041935&from=61&hms_devid=542&prioritypopid=61&online=1754041935&vqe=3
-CCTV-17,http://hwltc.tv.cdn.zj.chinamobi ... 21236200/index.m3u8
-CCTV-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobi ... dex.m3u8?fmt=ts2hls
-CCTV-4K,http://hwltc.tv.cdn.zj.chinamobi ... dex.m3u8?fmt=ts2hls
-CCTV-发现之旅,http://hwltc.tv.cdn.zj.chinamobi ... 21236398/index.m3u8
-CCTV-中学生,http://hwltc.tv.cdn.zj.chinamobi ... 21236325/index.m3u8
-CGTN-记录,http://hwltc.tv.cdn.zj.chinamobi ... 21236205/index.m3u8
-CGTN-法语,http://hwltc.tv.cdn.zj.chinamobi ... 21236288/index.m3u8
-CGTN-阿语,http://hwltc.tv.cdn.zj.chinamobi ... 21236290/index.m3u8
-CGTN-俄语,http://hwltc.tv.cdn.zj.chinamobi ... 21236228/index.m3u8
-CGTN-西语,http://hwltc.tv.cdn.zj.chinamobi ... 21236235/index.m3u8
+CCTV-17,http://[2409:8087:280c:22::28]/wh7f454c46tw3975509977_628532704/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?icpid=88888888&RTS=1754047144&from=61&ocs=2_2409:8087:280c:22::47_80&hms_devid=551&prioritypopid=61&online=1754047144&vqe=3
+CCTV-高尔夫网球,http://[2409:8087:280c:22::48]/wh7f454c46tw3988534166_989462802/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1754047157&from=61&hms_devid=1608&prioritypopid=61&online=1754047157&vqe=3
+CCTV-4K,http://[2409:8087:280c:22::46]/wh7f454c46tw4004930150_-808242195/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1754047173&from=61&hms_devid=1607&prioritypopid=61&online=1754047173&vqe=3
 
 卫视,#genre#
-凤凰中文,http://hwltc.tv.cdn.zj.chinamobi ... 21236260/index.m3u8
-凤凰资讯,http://hwltc.tv.cdn.zj.chinamobi ... 21236197/index.m3u8
-北京卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236241/index.m3u8
-东方卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236227/index.m3u8
-深圳卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236251/index.m3u8
+凤凰中文,http://[2409:8087:280c:23::39]/wh7f454c46tw4102118472_587843086/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?icpid=88888888&RTS=1754047270&from=61&hms_devid=2450&prioritypopid=61&online=1754047270&vqe=3
+凤凰资讯,http://[2409:8087:280c:22::32]/wh7f454c46tw4115337194_1682152168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?icpid=88888888&RTS=1754047284&from=61&ocs=2_2409:8087:280c:23::14_80&hms_devid=541&prioritypopid=61&online=1754047284&vqe=3
+北京卫视,http://[2409:8087:280c:23::39]/wh7f454c46tw4123738556_-1224779497/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8?icpid=88888888&RTS=1754047292&from=61&ocs=2_2409:8087:280c:20::12_80&hms_devid=2450&prioritypopid=61&online=1754047292&vqe=3
+东方卫视,http://[2409:8087:280c:20::13]/wh7f454c46tw4133806496_-588933342/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8?icpid=88888888&RTS=1754047302&from=61&ocs=2_2409:8087:280c:20::15_80&hms_devid=2088&prioritypopid=61&online=1754047302&vqe=3
+深圳卫视,http://[2409:8087:280c:23::1b]/wh7f454c46tw4143663341_194549181/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8?icpid=88888888&RTS=1754047312&from=61&hms_devid=1928&prioritypopid=61&online=1754047312&vqe=3
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236171/index.m3u8
-湖南卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236225/index.m3u8
-天津卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236217/index.m3u8
-河北卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236242/index.m3u8
-江苏卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236221/index.m3u8
-山东卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236159/index.m3u8
-安徽卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236177/index.m3u8
-河南卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236218/index.m3u8
-湖北卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236271/index.m3u8
+湖南卫视,http://[2409:8087:280c:20::11]/wh7f454c46tw4178163745_8453218/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?icpid=88888888&RTS=1754047347&from=61&hms_devid=2092&prioritypopid=61&online=1754047347&vqe=3
+天津卫视,http://[2409:8087:280c:23::3c]/wh7f454c46tw4191896146_1011004933/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8?icpid=88888888&RTS=1754047360&from=61&hms_devid=2452&prioritypopid=61&online=1754047360&vqe=3
+河北卫视,http://[2409:8087:280c:23::15]/wh7f454c46tw4201422177_1045362208/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?icpid=88888888&RTS=1754047370&from=61&hms_devid=1937&prioritypopid=61&online=1754047370&vqe=3
+江苏卫视,http://[2409:8087:280c:20::19]/wh7f454c46tw4209822196_-373713599/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8?icpid=88888888&RTS=1754047378&from=61&hms_devid=2089&prioritypopid=61&online=1754047378&vqe=3
+山东卫视,http://[2409:8087:280c:22::24]/wh7f454c46tw4219444827_-865950142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?icpid=88888888&RTS=1754047388&from=61&hms_devid=544&prioritypopid=61&online=1754047388&vqe=3
+安徽卫视,http://[2409:8087:280c:22::23]/wh7f454c46tw4227895682_-548261409/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?icpid=88888888&RTS=1754047396&from=61&ocs=2_2409:8087:280c:22::26_80&hms_devid=548&prioritypopid=61&online=1754047396&vqe=3
+河南卫视,http://[2409:8087:280c:23::2d]/wh7f454c46tw4238689187_399996838/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8?icpid=88888888&RTS=1754047407&from=61&hms_devid=1939&prioritypopid=61&online=1754047407&vqe=3
+湖北卫视,http://[2409:8087:280c:20::10]/wh7f454c46tw4264021600_-1348810795/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?icpid=88888888&RTS=1754047432&from=61&ocs=2_2409:8087:280c:22::48_80&hms_devid=2092&prioritypopid=61&online=1754047432&vqe=3
 黑龙江卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236226/index.m3u8
 辽宁卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236161/index.m3u8
 吉林卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236268/index.m3u8
