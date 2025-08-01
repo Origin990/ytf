@@ -1,22 +1,40 @@
-央视,#genre#
-CCTV-1,http://[2409:8087:280c:20::11]/wh7f454c46tw2590829161_389758613/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?icpid=88888888&RTS=1754041464&from=61&ocs=2_2409:8087:280c:22::2e_80&hms_devid=2092&prioritypopid=61&online=1754041464&vqe=3
-CCTV-2,http://[2409:8087:280c:22::22]/wh7f454c46tw3801816947_-420478636/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?icpid=88888888&RTS=1754046970&from=61&hms_devid=548&prioritypopid=61&online=1754046970&vqe=3
-CCTV-3,http://[2409:8087:280c:20::11]/wh7f454c46tw3820079664_-1788797294/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?icpid=88888888&RTS=1754046988&from=61&hms_devid=2092&prioritypopid=61&online=1754046988&vqe=3
-CCTV-4,http://[2409:8087:280c:23::14]/wh7f454c46tw3828868703_2144234451/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?icpid=88888888&RTS=1754046997&from=61&hms_devid=1937&prioritypopid=61&online=1754046997&vqe=3
-CCTV-5,http://[2409:8087:280c:23::3f]/wh7f454c46tw2976177582_-565104191/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?icpid=88888888&RTS=1754041850&from=61&hms_devid=2451&prioritypopid=61&online=1754041850&vqe=3
-CCTV-5+,http://[2409:8087:280c:22::32]/wh7f454c46tw3032948926_-1441739429/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?icpid=88888888&RTS=1754041906&from=61&ocs=2_2409:8087:280c:23::27_80&hms_devid=541&prioritypopid=61&online=1754041906&vqe=3
-CCTV-6,http://hwltc.tv.cdn.zj.chinamobi ... 21236294/index.m3u8
-CCTV-7,http://[2409:8087:280c:23::25]/wh7f454c46tw3888472804_915291005/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?icpid=88888888&RTS=1754047057&from=61&hms_devid=1938&prioritypopid=61&online=1754047057&vqe=3
-CCTV-8,http://[2409:8087:280c:b020:100::10]/wh7f454c46tw3901925376_1965603861/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?icpid=88888888&RTS=1754047070&from=61&ocs=2_2409:8087:280c:22::48_80&hms_devid=2525&online=1754047070&vqe=3
-CCTV-9,http://[2409:8087:280c:22::2e]/wh7f454c46tw2646507899_2008961691/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?icpid=88888888&RTS=1754041520&from=61&hms_devid=2556&prioritypopid=61&online=1754041520&vqe=3
-CCTV-10,http://[2409:8087:280c:20::10]/wh7f454c46tw3920176260_-509116160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?icpid=88888888&RTS=1754047089&from=61&hms_devid=2092&prioritypopid=61&online=1754047089&vqe=3
-CCTV-11,http://[2409:8087:280c:23::3d]/wh7f454c46tw3931601361_1798670056/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?icpid=88888888&RTS=1754047100&from=61&hms_devid=2453&prioritypopid=61&online=1754047100&vqe=3
-CCTV-12,http://[2409:8087:280c:22::33]/wh7f454c46tw3941577229_-376212509/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?icpid=88888888&RTS=1754047110&from=61&ocs=2_2409:8087:280c:23::2a_80&hms_devid=541&prioritypopid=61&online=1754047110&vqe=3
-CCTV-13,http://[2409:8087:2801:22:100::5f]/wh7f454c46tw2022402902_2067462862/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?icpid=88888888&RTS=1754045191&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=319&online=1754045191&vqe=3
-CCTV-14,http://[2409:8087:280c:22::35]/wh7f454c46tw3952443668_1539995715/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8?icpid=88888888&RTS=1754047121&from=61&hms_devid=552&prioritypopid=61&online=1754047121&vqe=3
-CCTV-15,http://[2409:8087:280c:b020:100::12]/wh7f454c46tw3965151690_-1457101977/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?icpid=88888888&RTS=1754047133&from=61&ocs=2_2409:8087:280c:23::14_80&hms_devid=2526&online=1754047133&vqe=3
-CCTV-16,http://[2409:8087:280c:22::2a]/wh7f454c46tw3061417768_-1988639593/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1754041935&from=61&hms_devid=542&prioritypopid=61&online=1754041935&vqe=3
-CCTV-17,http://[2409:8087:280c:22::28]/wh7f454c46tw3975509977_628532704/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?icpid=88888888&RTS=1754047144&from=61&ocs=2_2409:8087:280c:22::47_80&hms_devid=551&prioritypopid=61&online=1754047144&vqe=3
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
+http://[2409:8087:280c:20::11]/wh7f454c46tw2590829161_389758613/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?icpid=88888888&RTS=1754041464&from=61&ocs=2_2409:8087:280c:22::2e_80&hms_devid=2092&prioritypopid=61&online=1754041464&vqe=3
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
+http://[2409:8087:280c:22::22]/wh7f454c46tw3801816947_-420478636/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?icpid=88888888&RTS=1754046970&from=61&hms_devid=548&prioritypopid=61&online=1754046970&vqe=3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://[2409:8087:280c:20::11]/wh7f454c46tw3820079664_-1788797294/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?icpid=88888888&RTS=1754046988&from=61&hms_devid=2092&prioritypopid=61&online=1754046988&vqe=3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://[2409:8087:280c:23::14]/wh7f454c46tw3828868703_2144234451/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?icpid=88888888&RTS=1754046997&from=61&hms_devid=1937&prioritypopid=61&online=1754046997&vqe=3
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
+http://[2409:8087:280c:23::3f]/wh7f454c46tw2976177582_-565104191/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?icpid=88888888&RTS=1754041850&from=61&hms_devid=2451&prioritypopid=61&online=1754041850&vqe=3
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://[2409:8087:280c:22::32]/wh7f454c46tw3032948926_-1441739429/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?icpid=88888888&RTS=1754041906&from=61&ocs=2_2409:8087:280c:23::27_80&hms_devid=541&prioritypopid=61&online=1754041906&vqe=3
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
+http://hwltc.tv.cdn.zj.chinamobi ... 21236294/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://[2409:8087:280c:23::25]/wh7f454c46tw3888472804_915291005/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?icpid=88888888&RTS=1754047057&from=61&hms_devid=1938&prioritypopid=61&online=1754047057&vqe=3
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://[2409:8087:280c:b020:100::10]/wh7f454c46tw3901925376_1965603861/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?icpid=88888888&RTS=1754047070&from=61&ocs=2_2409:8087:280c:22::48_80&hms_devid=2525&online=1754047070&vqe=3
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://[2409:8087:280c:22::2e]/wh7f454c46tw2646507899_2008961691/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?icpid=88888888&RTS=1754041520&from=61&hms_devid=2556&prioritypopid=61&online=1754041520&vqe=3
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
+http://[2409:8087:280c:20::10]/wh7f454c46tw3920176260_-509116160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?icpid=88888888&RTS=1754047089&from=61&hms_devid=2092&prioritypopid=61&online=1754047089&vqe=3
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://[2409:8087:280c:23::3d]/wh7f454c46tw3931601361_1798670056/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?icpid=88888888&RTS=1754047100&from=61&hms_devid=2453&prioritypopid=61&online=1754047100&vqe=3
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://[2409:8087:280c:22::33]/wh7f454c46tw3941577229_-376212509/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?icpid=88888888&RTS=1754047110&from=61&ocs=2_2409:8087:280c:23::2a_80&hms_devid=541&prioritypopid=61&online=1754047110&vqe=3
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://[2409:8087:2801:22:100::5f]/wh7f454c46tw2022402902_2067462862/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?icpid=88888888&RTS=1754045191&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=319&online=1754045191&vqe=3
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://[2409:8087:280c:22::35]/wh7f454c46tw3952443668_1539995715/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8?icpid=88888888&RTS=1754047121&from=61&hms_devid=552&prioritypopid=61&online=1754047121&vqe=3
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://[2409:8087:280c:b020:100::12]/wh7f454c46tw3965151690_-1457101977/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?icpid=88888888&RTS=1754047133&from=61&ocs=2_2409:8087:280c:23::14_80&hms_devid=2526&online=1754047133&vqe=3
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://[2409:8087:280c:22::2a]/wh7f454c46tw3061417768_-1988639593/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1754041935&from=61&hms_devid=542&prioritypopid=61&online=1754041935&vqe=3
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://[2409:8087:280c:22::28]/wh7f454c46tw3975509977_628532704/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?icpid=88888888&RTS=1754047144&from=61&ocs=2_2409:8087:280c:22::47_80&hms_devid=551&prioritypopid=61&online=1754047144&vqe=3
 CCTV-高尔夫网球,http://[2409:8087:280c:22::48]/wh7f454c46tw3988534166_989462802/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1754047157&from=61&hms_devid=1608&prioritypopid=61&online=1754047157&vqe=3
 CCTV-4K,http://[2409:8087:280c:22::46]/wh7f454c46tw4004930150_-808242195/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1754047173&from=61&hms_devid=1607&prioritypopid=61&online=1754047173&vqe=3
 
