@@ -12,7 +12,7 @@
 		       Text="由于模组数量已超过100个，启动时间可能较长，建议使用固态硬盘启动游戏！此整合包无法运行在Windows 7系统的电脑上，建议使用Windows 10或更高版本运行！" />
                  <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                Text="下载链接：(点击自动打开浏览器或下载器)" />
-          <local:MyListItem Margin="-2,0,0,0" ToolTip="点击链接下载MSI安装文件。" Logo="https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-white.png" Title="Adoptium Java" Info="可适用于1.20.1版本的Minecraft，由清华大学 TUNA 协会提供镜像源，推荐使用。" EventType="打开网页" EventData="https://mirrors.tuna.tsinghua.edu.cn/Adoptium/21/jdk/x64/windows/OpenJDK21U-jdk_x64_windows_hotspot_21.0.6_7.msi" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" ToolTip="点击链接下载安装文件。" Logo="https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-white.png" Title="Adoptium Java" Info="可适用于1.20.1版本的Minecraft，由清华大学 TUNA 协会提供镜像源，推荐使用。" EventType="打开网页" EventData="https://mirrors.tuna.tsinghua.edu.cn/Adoptium/21/jdk/x64/windows/" Type="Clickable" />
 		  <StackPanel Margin="24,10,24,5">
           <Grid>
                <Grid.ColumnDefinitions>
@@ -130,4 +130,5 @@
       <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />
 
 	 </StackPanel>
+
 </local:MyCard>
