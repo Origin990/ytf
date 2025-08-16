@@ -125,14 +125,6 @@
 	 </StackPanel>
 </local:MyCard>
 
-<local:MyCard Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
-     <StackPanel Margin="24,40,24,15">
-      <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />
-
-	 </StackPanel>
-
-</local:MyCard>
-
 <local:MyCard  Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
           <Image Width="50" Margin="0,0,0,0" Source="http://hk1-proxy.gitwarp.com:8888/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
@@ -155,7 +147,7 @@
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
-                    <local:MyButton Margin="0,15,0,0" Height="35" Text="点击了解更多" EventType="打开网页" EventData="https://www.mgcraft.net/about" ToolTip="点击进入芒果方块关于界面"/>
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />
           </Grid>
      </StackPanel>
 </local:MyCard>
