@@ -144,11 +144,6 @@
 		  	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
       <local:MyListItem Margin="-2,0,0,0" Logo="https://help.apple.com/assets/6787FFB703EF717517021D0D/6787FFBC03EF717517021D1F/zh_CN/edf6f691d463be51741b88f6699c9e05.png" Title="隐私保护" Info="了解我们如何保护每个用户的隐私。" EventType="打开网页" EventData="https://www.apple.com.cn/privacy/features/" Type="Clic
-          <Grid>
-               <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="1*" />
-               </Grid.ColumnDefinitions>
-                    <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />
-          </Grid>
+      <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />    
      </StackPanel>
 </local:MyCard>
