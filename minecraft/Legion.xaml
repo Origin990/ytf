@@ -1,0 +1,161 @@
+﻿<local:MyCard Margin="0,0,0,12" Title="欢迎页" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+          <TextBlock HorizontalAlignment="Center" Margin="0,0,0,12" Foreground="{DynamicResource ColorBrush2}" FontSize="20"
+               Text="欢迎使用Mr.zhen基础整合包" />
+		  <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="我们的安装包不提供Java环境包，但提供Java环境包下载地址，有需要可以点击下方的链接进行下载。" />
+          <local:MyHint Margin="0,0,0,10" IsWarn="True"
+		  	   Text="此整合包仅班级内部提供，未经原作者许可，请勿将此整合包打包并发布到网上！" />
+          <local:MyHint Margin="0,0,0,10" IsWarn="True"
+		  	   Text="此整合包加入了身份验证，从2025年3月30日起，如果你不是班级内部人员，你无法进行游戏，请立即将此整合包删除！" />
+		  <local:MyHint Margin="0,0,0,10" IsWarn="True"
+		       Text="由于模组数量已超过100个，启动时间可能较长，建议使用固态硬盘启动游戏！此整合包无法运行在Windows 7系统的电脑上，建议使用Windows 10或更高版本运行！" />
+                 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="下载链接：(点击自动打开浏览器或下载器)" />
+          <local:MyListItem Margin="-2,0,0,0" ToolTip="点击链接下载安装文件。" Logo="https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-white.png" Title="Adoptium Java" Info="可适用于1.20.1版本的Minecraft，由清华大学 TUNA 协会提供镜像源，推荐使用。" EventType="打开网页" EventData="https://mirrors.tuna.tsinghua.edu.cn/Adoptium/21/jdk/x64/windows/" Type="Clickable" />
+		  <StackPanel Margin="24,10,24,5">
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+               <local:MyButton Grid.Column="0" Margin="0,0,10,0" Height="35" Text="打开 PCL 日志"
+                    EventType="打开文件" EventData="Log1.txt" ToolTip="查看当前PCL启动器的日志文件，便于诊断。" />
+               <local:MyButton Grid.Column="1" Margin="0,0,0,0" Height="35" Text="清理垃圾"
+                    EventType="清理垃圾" ToolTip="清理PCL的缓存与MC的日志，崩溃报告等垃圾文件。" />
+          </Grid>
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+               <local:MyButton Grid.Column="0" Margin="0,10,10,0" Height="35" Text="内存优化"
+                    EventType="内存优化" ToolTip="将物理内存占用降低约 1/3，不仅限于 MC！&#xA;将选择权交给你，你可以决定是否执行优化。如果正在使用机械硬盘或SATA固态硬盘作为系统盘，会导致一段时间的严重卡顿！&#xA;Windows键+R键使用--memory 参数启动 PCL 可以静默执行内存优化。" />
+               <local:MyButton Grid.Column="1" Margin="0,10,0,0" Height="35" Text="Java帮助"
+                   EventType="弹出窗口" EventData="Java环境问题|Adoptium Java采用向导式安装，下载完成后点击安装即可。\n若按照步骤成功安装Java，请重新启动PCL启动器。" />
+          </Grid>
+		  <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+			   <local:MyButton Grid.Column="0" Margin="0,12,10,0" Height="35" Text="查看禁用模组"
+                    EventType="打开文件" EventData="mod help.html" ToolTip="查看我们预先禁用了哪些模组，便于您启用或禁用相应的模组。" />
+                  <local:MyButton Grid.Column="1" Margin="0,12,0,0" Height="35" Text="打开任务管理器"
+                    EventType="执行命令" EventData="taskmgr.exe" ToolTip="查看当前电脑的运行情况。" />
+          </Grid>
+		  <TextBlock TextWrapping="Wrap" Margin="0,15,0,4"
+               Text="整合包安装了Modern UI，并设置了字体，为了能够显示正确的字体，请点击下面的按钮安装字体。" />
+		  <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+			   <local:MyButton Grid.Column="0" Margin="0,12,0,0" Height="35" Text="安装“崩坏·星穹铁道”字体"
+                    EventType="打开文件" EventData="星穹铁道字体.ttf" ToolTip="点击按钮将打开字体查看器，稍后请点击左上角“安装”按钮进行安装。" />
+          </Grid>
+		  <TextBlock TextWrapping="Wrap" Margin="0,15,0,4"
+               Text="往下看，精彩继续！" />
+     </StackPanel>
+     </StackPanel>
+</local:MyCard>
+<local:MyCard Margin="0,0,0,6" Title="联想拯救者专区" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+		  <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="专为使用联想拯救者笔记本的玩家打造的专区，非联想品牌机无法使用。" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://pr1-greenteacdn.lenovo.com.cn/config/1637116386093_%E9%85%92%E7%B2%BE%E6%B8%85%E6%B4%81.png" Title="新机手册" Info="联想官方提供的新机使用指南，指导新用户快速上手。" EventType="打开网页" EventData="https://browser.lenovo.com.cn/fre/system" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://guanjia.lenovo.com.cn/static/imgs/LPCM_appicon_uninstall_64@1x.png" Title="联想电脑管家" Info="联想官方提供的安全软件，使用火绒内核驱动。" EventType="执行命令" EventData="C:\Program Files (x86)\Lenovo\PCManager\LenovoPcManager.exe" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://dynamic-image.xiaomoxz.com/160x160/uploadImages/2024/208/49/R83ZJS03L49N.jpg" Title="Legion Zone" Info="“拯救者”专属设备控制中心。" EventType="执行命令" EventData="C:\Program Files (x86)\Lenovo\LegionZone\LZMain.exe" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://img2cdn.clubstatic.lenovo.com.cn/pic/33330394421709/0" Title="拯救者圈子" Info="加入圈子，一起讨论。" EventType="打开网页" EventData="https://mclub.lenovo.com.cn/group-1608-1.html" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://p2.lefile.cn/fes/cms/2018/10/27/xq7oz9q0q6hldsixk44oyeu5ym8vfc174999.png" Title="联想售后客户服务中心" Info="设备问题、系统问题找售后。" EventType="打开网页" EventData="https://newsupport.lenovo.com.cn/" Type="Clickable" />
+     </StackPanel>
+</local:MyCard>
+<local:MyCard Margin="0,0,0,12" Title="提示" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="我们的整合包与“乌托邦探险之旅”完全独立，没有任何联系，也没有从中借鉴内容，请不要与我们的整合包加以比较。" />
+	 </StackPanel>
+</local:MyCard>
+
+<local:MyCard Margin="0,0,0,8" Title="下载器" CanSwap="True" IsSwaped="false">
+     <StackPanel Margin="24,40,24,15">
+          <local:MyHint Margin="0,0,0,10" IsWarn="False"
+               Text="使用 PCL 的高速多线程下载引擎下载任意文件。请注意，部分网站 (例如百度网盘) 可能会报错 (403) 已禁止，无法正常下载。" />
+          <local:MyHint Margin="0,0,0,10" IsWarn="True"
+               Text="链接必须为以 http:// 或 https:// 开头的网址，部分网址可能无法下载" />
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+               <local:MyTextBox HintText="下载链接：" Margin="0,0,0,0" Name="web" Height="30"
+                    Grid.Column="0" ToolTip="在此输入下载链接，点击右边按钮下载自定义文件。&#xA;注意不要按下Enter键，这会直接启动游戏。" />
+               <local:MyButton EventType="下载文件" EventData="{Binding ElementName=web,Path=Text}"
+                    Text="开始下载→" Margin="5,0,0,0" Height="30" Grid.Column="2" Padding="2,0,2,0"
+                    ColorType="Highlight" />
+          </Grid>
+     </StackPanel>
+</local:MyCard>
+
+<local:MyCard Margin="0,0,0,6" Title="下载其他Java发行版" CanSwap="True" IsSwaped="False">
+               <StackPanel Margin="24,40,24,15">
+				<local:MyListItem Margin="-2,0,0,0" Logo="https://www.oracle.com/asset/web/favicons/favicon-192.png" Title="Oracle Java" Info="官方Java下载地址 | 甲骨文（Oracle） 中国" EventType="打开网页" EventData="https://www.oracle.com/cn/java/technologies/downloads/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.azul.com/wp-content/themes/azul/assets/img/azul-favicon-block.png" Title="Azul Java" Info="包括 Azul Zulu，这是世界上最安全、最稳定的 OpenJDK 版本。" EventType="打开网页" EventData="https://www.azul.com/downloads/?package=jdk#zulu" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://dragonwell-jdk.io/favicon.ico" Title="Dragonwell Java" Info="Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。" EventType="打开网页" EventData="https://www.aliyun.com/product/dragonwell" Type="Clickable" />
+				</StackPanel>
+</local:MyCard>
+
+<local:MyCard Margin="0,0,0,6" Title="工具网站" CanSwap="True" IsSwaped="False">
+               <StackPanel Margin="24,40,24,15">
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico" Title="Minecraft官方网站" Info="在 Minecraft 官方网站上探索新的游戏冒险、配件和商品。在此处购买并下载游戏，或查看网站以获取最新消息。" EventType="打开网页" EventData="https://www.minecraft.net/zh-hans" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="" Title="Minecraft Wiki" Info="完全公开、可自由编辑的Wiki，中文Minecraft Wiki。" EventType="打开网页" EventData="https://zh.minecraft.wiki/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://www.mcmod.cn/favicon.ico" Title="MC百科" Info="MC百科的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。" EventType="打开网页" EventData="https://www.mcmod.cn/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://modrinth.com/favicon.ico" Title="Modrinth" Info="通过我们为社区构建的开源平台，发现、播放和分享 Minecraft 内容。" EventType="打开网页" EventData="https://modrinth.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.mcnav.net/wp-content/uploads/2021/08/1628156278-favicon.png" Title="Chunk Base" Info="可帮助您找到最好的 Minecraft 种子，并在交互式地图上定位您世界中的生物群落和结构。" EventType="打开网页" EventData="https://www.chunkbase.com/apps/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://static-beta.curseforge.com/images/cf_legacy.png" Title="CurseForge" Info="一个为模组制作者和游戏玩家提供无限游戏可能性的世界。" EventType="打开网页" EventData="https://CurseForge.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Title="Minebbs" Info="Minebbs我的世界中文论坛。" EventType="打开网页" EventData="https://www.minebbs.com/" Type="Clickable" />
+               </StackPanel>
+</local:MyCard>
+
+<local:MyCard Margin="0,0,0,12" Title="隐私" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
+      <local:MyListItem Margin="-2,0,0,0" Logo="https://help.apple.com/assets/6787FFB703EF717517021D0D/6787FFBC03EF717517021D1F/zh_CN/edf6f691d463be51741b88f6699c9e05.png" Title="隐私保护" Info="了解我们如何保护每个用户的隐私。" EventType="打开网页" EventData="https://www.apple.com.cn/privacy/features/" Type="Clickable" />
+
+	 </StackPanel>
+</local:MyCard>
+
+<local:MyCard Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+      <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />
+
+	 </StackPanel>
+
+</local:MyCard>
+
+<local:MyCard  Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+          <Image Width="50" Margin="0,0,0,0" Source="http://hk1-proxy.gitwarp.com:8888/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Origin起源"/>
+          </Grid>
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Mr.zhen旗下运营主账号"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,35,0,0" Text="始终坚持做感动人心、流畅好用的好产品。"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活。"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="同时，Mr.zhen也在运营起源电视小型公益项目"/>
+          </Grid>
+          <Grid>
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+               </Grid.ColumnDefinitions>
+                    <local:MyButton Margin="0,15,0,0" Height="35" Text="点击了解更多" EventType="打开网页" EventData="https://www.mgcraft.net/about" ToolTip="点击进入芒果方块关于界面"/>
+          </Grid>
+     </StackPanel>
+</local:MyCard>
