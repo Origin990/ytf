@@ -116,15 +116,6 @@
                </StackPanel>
 </local:MyCard>
 
-<local:MyCard Margin="0,0,0,12" Title="隐私" CanSwap="True" IsSwaped="False">
-     <StackPanel Margin="24,40,24,15">
-	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-               Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
-      <local:MyListItem Margin="-2,0,0,0" Logo="https://help.apple.com/assets/6787FFB703EF717517021D0D/6787FFBC03EF717517021D1F/zh_CN/edf6f691d463be51741b88f6699c9e05.png" Title="隐私保护" Info="了解我们如何保护每个用户的隐私。" EventType="打开网页" EventData="https://www.apple.com.cn/privacy/features/" Type="Clickable" />
-
-	 </StackPanel>
-</local:MyCard>
-
 <local:MyCard  Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
           <Image Width="50" Margin="0,0,0,0" Source="http://hk1-proxy.gitwarp.com:8888/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
@@ -143,6 +134,9 @@
 					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活。"/>
 					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="同时，Mr.zhen也在运营起源电视小型公益项目"/>
           </Grid>
+		  	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
+      <local:MyListItem Margin="-2,0,0,0" Logo="https://help.apple.com/assets/6787FFB703EF717517021D0D/6787FFBC03EF717517021D1F/zh_CN/edf6f691d463be51741b88f6699c9e05.png" Title="隐私保护" Info="了解我们如何保护每个用户的隐私。" EventType="打开网页" EventData="https://www.apple.com.cn/privacy/features/" Type="Clic
           <Grid>
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
