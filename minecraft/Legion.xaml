@@ -104,7 +104,7 @@
 				</StackPanel>
 </local:MyCard>
 
-<local:MyCard Margin="0,0,0,6" Title="工具网站" CanSwap="True" IsSwaped="False">
+<local:MyCard Margin="0,0,0,6" Title="服务器" CanSwap="True" IsSwaped="False">
                <StackPanel Margin="24,40,24,15">
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico" Title="Minecraft官方网站" Info="在 Minecraft 官方网站上探索新的游戏冒险、配件和商品。在此处购买并下载游戏，或查看网站以获取最新消息。" EventType="打开网页" EventData="https://www.minecraft.net/zh-hans" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" Logo="" Title="Minecraft Wiki" Info="完全公开、可自由编辑的Wiki，中文Minecraft Wiki。" EventType="打开网页" EventData="https://zh.minecraft.wiki/" Type="Clickable" />
@@ -141,7 +141,7 @@
 					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活。"/>
 					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="同时，Mr.zhen也在运营起源电视小型公益项目"/>
           </Grid>
-		  	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		  	 <TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
       <local:MyListItem Margin="-2,0,0,0" Logo="https://help.apple.com/assets/6787FFB703EF717517021D0D/6787FFBC03EF717517021D1F/zh_CN/edf6f691d463be51741b88f6699c9e05.png" Title="隐私保护" Info="了解我们如何保护每个用户的隐私。" EventType="打开网页" EventData="https://www.apple.com.cn/privacy/features/" Type="Clickable" />   
       <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />    
