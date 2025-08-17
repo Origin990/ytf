@@ -125,7 +125,7 @@
 
 <local:MyCard  Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
-          <Image Width="50" Margin="0,0,0,0" Source="http://hk1-proxy.gitwarp.com:8888/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
+          <Image Width="100" Margin="0,0,0,0" Source="http://hk1-proxy.gitwarp.com:8888/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
           <Grid>
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
