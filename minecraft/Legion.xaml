@@ -30,7 +30,7 @@
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
                <local:MyButton Grid.Column="0" Margin="0,10,10,0" Height="35" Text="内存优化"
-                    EventType="内存优化" ToolTip="将物理内存占用降低约 1/3，不仅限于 MC！&#xA;将选择权交给你，你可以决定是否执行优化。如果正在使用机械硬盘或SATA固态硬盘作为系统盘，会导致一段时间的严重卡顿！&#xA;Windows键+R键使用--memory 参数启动 PCL 可以静默执行内存优化。" />
+                    EventType="内存优化" ToolTip="将物理内存占用降低约 1/3，不仅限于 MC！&#xA;将选择权交给你，你可以决定是否执行优化。如果正在使用机械硬盘或SATA固态硬盘作为系统盘，会导致一段时间的严重卡顿！&#xA;Windows键+R键使用--memory 参数启动 PCL 可以静默执行内存优化（不启动主界面）。" />
                <local:MyButton Grid.Column="1" Margin="0,10,0,0" Height="35" Text="Java帮助"
                    EventType="弹出窗口" EventData="Java环境问题|Adoptium Java采用向导式安装，下载完成后点击安装即可。\n若按照步骤成功安装Java，请重新启动PCL启动器。" />
           </Grid>
