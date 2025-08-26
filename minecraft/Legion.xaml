@@ -67,6 +67,7 @@
           <local:MyListItem Margin="-2,0,0,0" Logo="https://dynamic-image.xiaomoxz.com/160x160/uploadImages/2024/208/49/R83ZJS03L49N.jpg" Title="Legion Zone" Info="“拯救者”专属设备控制中心。" EventType="执行命令" EventData="C:\Program Files (x86)\Lenovo\LegionZone\LZMain.exe" Type="Clickable" />
           <local:MyListItem Margin="-2,0,0,0" Logo="https://img2cdn.clubstatic.lenovo.com.cn/pic/33330394421709/0" Title="拯救者圈子" Info="加入圈子，一起讨论。" EventType="打开网页" EventData="https://mclub.lenovo.com.cn/group-1608-1.html" Type="Clickable" />
           <local:MyListItem Margin="-2,0,0,0" Logo="https://p2.lefile.cn/fes/cms/2018/10/27/xq7oz9q0q6hldsixk44oyeu5ym8vfc174999.png" Title="联想售后客户服务中心" Info="设备问题、系统问题找售后。" EventType="打开网页" EventData="https://newsupport.lenovo.com.cn/" Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://leai.lenovo.com.cn/assets/logo-Dt7xH3Fc.png" Title="联想乐享AI" Info="联想多模态智能引擎，突破传统交互边界，提供自动化全场景服务和企业智能体解决方案。" EventType="打开网页" EventData="https://leai.lenovo.com.cn/" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
 <local:MyCard Margin="0,0,0,12" Title="提示" CanSwap="True" IsSwaped="False">
