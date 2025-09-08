@@ -143,14 +143,3 @@
 	  <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/douyin.png" Title="访问开发者抖音主页" Info="Origin起源 为你解锁 更多可能" EventType="打开网页" EventData="https://www.douyin.com/user/MS4wLjABAAAAnnWlDpPoWaO9CbmHWhqUwCWRA0HoFqBwYgyDRHY3H_0?from_tab_name=main" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
-
-<local:MyCard Title="${title|最新版本}" CanSwap="${card-can-swap|False}" IsSwaped="${card-is-swaped|False}" ${@IF|${enable-card-style}|Style="{StaticResource Card}"}>
-<StackPanel Margin="${content-margin|8,38,8,15}">
-${@VersionLatestList}
-<Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush5}"  Opacity="0.7" StrokeThickness="1.2"
-     HorizontalAlignment="Center" Stretch="Fill" Margin="4,4"/>
-<local:MyListItem Margin="10,1" ToolTip="点击跳转到列表界面" LogoScale="1.04"
-Logo="https://s21.ax1x.com/2025/07/11/pVQXQTx.png" Title="历史版本更新日志" Info="点击查看更多更新日志"
-EventType="打开帮助" EventData="${@Link|VersionArchiveList}" Type="Clickable" />
-</StackPanel>
-</local:MyCard>
