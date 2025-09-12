@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://baoer.org.cn/e.xml"
 #EXTINF:-1 group-title="🕘️更新时间" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",2025-09-12 15:46:09
 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1
@@ -4184,4 +4184,5 @@ https://liuliuliu.tv/api/channels/233/stream
 #EXTINF:-1 group-title="📥其它频道" tvg-logo="https://live.fanmingming.cn/tv/更新日期.png",更新日期
 https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
 #EXTINF:-1 group-title="📥其它频道" tvg-logo="https://live.fanmingming.cn/tv/20250303.png",20250303
+
 https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
