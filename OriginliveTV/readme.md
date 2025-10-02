@@ -77,7 +77,7 @@ Mr.zhen倾力打造的直播电视播控平台
 建议通过ADB进行安装：
 
 ```shell
-adb install my-tv-0.apk
+adb install Android-5.0+.apk
 ```
 
 小米电视可以使用小米电视助手进行安装。
