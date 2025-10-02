@@ -64,13 +64,9 @@ Mr.zhen倾力打造的直播电视播控平台
 
 我们提供安卓4.4兼容版本。
 
-![image](./screenshots/Screenshot_20240810_151748.png)
-![image](./screenshots/Screenshot_20240813_232847.png)
-![image](./screenshots/Screenshot_20240813_232900.png)
-
-## 更新日志
-
-[更新日志](./HISTORY.md)
+![image](./screenshots/MuMu-20251002-101712-513.png)
+![image](./screenshots/MuMu-20251002-101749-620.png)
+![image](./screenshots/MuMu-20251002-101810-532.png)
 
 ## 其他
 
@@ -81,13 +77,8 @@ adb install Android-5.0+.apk
 ```
 
 小米电视可以使用小米电视助手进行安装。
-由于小米处于安全原因，搭载TV HyperOS 2.0的电视机型不再支持APP安装功能，请使用adb方式安装。
 
-
-## TODO
-
-* 支持回看
-* 浅色菜单
+由于小米出于安全原因，搭载TV HyperOS 2.0的电视机型不再支持APP安装功能，请使用adb方式安装。
 
 ## 常见问题
 
@@ -102,7 +93,3 @@ adb install Android-5.0+.apk
 * 直播无法播放？
 
   软件是否可以正常播放直播取决于直播源，本人并不负责直播源的维护。
-
-## 讚賞
-
-![image](./screenshots/appreciate.png)
