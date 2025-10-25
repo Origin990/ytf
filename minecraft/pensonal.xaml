@@ -39,7 +39,7 @@
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
-			   <local:MyButton Grid.Column="0" Margin="0,12,0,0" Height="35" Text="安装“崩坏·星穹铁道”字体"
+			   <local:MyButton Grid.Column="0" Margin="0,12,0,0" Height="35" Text="安装“汉仪旗黑”字体"
                     EventType="打开文件" EventData="星穹铁道字体.ttf" ToolTip="点击按钮将打开字体查看器，稍后请点击左上角“安装”按钮进行安装。" />
           </Grid>
 		  <TextBlock TextWrapping="Wrap" Margin="0,15,0,4"
