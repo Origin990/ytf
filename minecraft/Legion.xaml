@@ -135,6 +135,7 @@
 					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/aliyun.png" Title="阿里云" Info="计算，为了无法计算的价值" EventType="打开网页" EventData="https://www.aliyun.com/product/ecs" Type="Clickable" />
 					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/huawei.png" Title="华为云" Info="共建智能世界云底座" EventType="打开网页" EventData="https://www.huaweicloud.com/product/ecs.html" Type="Clickable" />
 					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/tencentcloud.png" Title="腾讯云" Info="腾讯集团倾力打造的云计算品牌" EventType="打开网页" EventData="https://cloud.tencent.com/product/cvm?Is=sdk-topnav" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/volcengine.png" Title="火山引擎" Info="字节跳动旗下云服务平台，提供云基础到智能应用的全链路支撑。" EventType="打开网页" EventData="https://www.volcengine.com/product/ecs" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
