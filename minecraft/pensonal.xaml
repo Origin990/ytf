@@ -54,6 +54,13 @@
     </StackPanel>
 </local:MyCard>
 
+<local:MyCard Margin="0,0,0,12" Title="关于近期PCL启动器灰度更新说明" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="24,40,24,15">
+	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+               Text="近期PCL启动器向部分玩家推送了灰度测试版，新增了“联机”功能，经我们测试，现阶段的联机功能尚未完善，请尽量继续使用“可优互联”进行联机。" />
+	 </StackPanel>
+</local:MyCard>
+
 <local:MyCard Margin="0,0,0,6" Title="联想拯救者专区" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
 		  <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
