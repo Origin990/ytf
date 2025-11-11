@@ -77,10 +77,10 @@
           <local:MyListItem Margin="-2,0,0,0" Logo="https://leai.lenovo.com.cn/assets/logo-Dt7xH3Fc.png" Title="联想乐享AI" Info="联想多模态智能引擎，突破传统交互边界，提供自动化全场景服务和企业智能体解决方案。" EventType="打开网页" EventData="https://leai.lenovo.com.cn/" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
-<local:MyCard Margin="0,0,0,12" Title="提示" CanSwap="True" IsSwaped="False">
+<local:MyCard Margin="0,0,0,12" Title="关于近期PCL启动器灰度更新说明" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
 	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-               Text="我们的整合包与“乌托邦探险之旅”完全独立，没有任何联系，也没有从中借鉴内容，请不要与我们的整合包加以比较。" />
+               Text="近期PCL启动器向部分玩家推送了灰度测试版，新增了“联机”功能，经我们测试，现阶段的联机功能尚未完善，请尽量继续使用“可优互联”进行联机。" />
 	 </StackPanel>
 </local:MyCard>
 
