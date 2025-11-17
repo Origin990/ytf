@@ -80,7 +80,7 @@
 <local:MyCard Margin="0,0,0,6" Title="联机功能说明" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
 	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-               Text="当地政府原因或其他不可抗力的情形，PCL启动器的联机功能已被暂时关闭，若要继续联机，请使用整合包内置的“可优互联”进行联机。" />
+               Text="当地政府原因或其他不可抗力的因素，PCL启动器的联机功能已被暂时关闭，若要继续联机，请使用整合包内置的“可优互联”进行联机。" />
 	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                Text="再次声明，我们的整合包与“乌托邦探险之旅”没有从属关系，也没有从中借鉴内容，整合包内所有模组均由我们单独挑选调试，请勿加以比较。" />
 	 </StackPanel>
