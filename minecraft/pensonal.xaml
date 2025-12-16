@@ -100,7 +100,7 @@
                <StackPanel Margin="24,40,24,15">
 				<local:MyListItem Margin="-2,0,0,0" Logo="https://www.oracle.com/asset/web/favicons/favicon-192.png" Title="Oracle Java" Info="官方Java下载地址 | 甲骨文（Oracle） 中国" EventType="打开网页" EventData="https://www.oracle.com/cn/java/technologies/downloads/" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.azul.com/wp-content/themes/azul/assets/img/azul-favicon-block.png" Title="Azul Java" Info="包括 Azul Zulu，这是世界上最安全、最稳定的 OpenJDK 版本。" EventType="打开网页" EventData="https://www.azul.com/downloads/?package=jdk#zulu" Type="Clickable" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="https://dragonwell-jdk.io/favicon.ico" Title="Dragonwell Java" Info="Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。" EventType="打开网页" EventData="https://www.aliyun.com/product/dragonwell" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/dragonwell.png" Title="Dragonwell Java" Info="Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。" EventType="打开网页" EventData="https://www.aliyun.com/product/dragonwell" Type="Clickable" />
 				</StackPanel>
 </local:MyCard>
 
