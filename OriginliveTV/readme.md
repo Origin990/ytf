@@ -62,11 +62,17 @@ Mr.zhen倾力打造的直播电视播控平台
 
 下载安装 [releases](https://github.com/Origin990/ytf/releases/tag/ytf)
 
-我们提供安卓4.4兼容版本。
+我们提供安卓4.4兼容版本（2.0版本仅兼容Android5.0+系统版本）。
 
+1.0：
 ![image](./screenshots/MuMu-20251002-101712-513.png)
 ![image](./screenshots/MuMu-20251002-101749-620.png)
 ![image](./screenshots/MuMu-20251002-101810-532.png)
+
+2.0：
+![image](./screenshots/2.0-1.png)
+![image](./screenshots/2.0-2.png)
+![image](./screenshots/2.0-3.png)
 
 ## 安装
 
