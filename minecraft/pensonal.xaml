@@ -100,7 +100,7 @@
                <StackPanel Margin="24,40,24,15">
 				<local:MyListItem Margin="-2,0,0,0" Logo="https://www.oracle.com/asset/web/favicons/favicon-192.png" Title="Oracle Java" Info="官方Java下载地址 | 甲骨文（Oracle） 中国" EventType="打开网页" EventData="https://www.oracle.com/cn/java/technologies/downloads/" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.azul.com/wp-content/themes/azul/assets/img/azul-favicon-block.png" Title="Azul Java" Info="包括 Azul Zulu，这是世界上最安全、最稳定的 OpenJDK 版本。" EventType="打开网页" EventData="https://www.azul.com/downloads/?package=jdk#zulu" Type="Clickable" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/dragonwell.png" Title="Dragonwell Java" Info="Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。" EventType="打开网页" EventData="https://www.aliyun.com/product/dragonwell" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/dragonwell.png" Title="Dragonwell Java" Info="Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。" EventType="打开网页" EventData="https://www.aliyun.com/product/dragonwell" Type="Clickable" />
 				</StackPanel>
 </local:MyCard>
 
@@ -113,8 +113,8 @@
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://www.mcnav.net/wp-content/uploads/2021/08/1628156278-favicon.png" Title="Chunk Base" Info="可帮助您找到最好的 Minecraft 种子，并在交互式地图上定位您世界中的生物群落和结构。" EventType="打开网页" EventData="https://www.chunkbase.com/apps/" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://static-beta.curseforge.com/images/cf_legacy.png" Title="CurseForge" Info="一个为模组制作者和游戏玩家提供无限游戏可能性的世界。" EventType="打开网页" EventData="https://CurseForge.com/" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" Title="Minebbs" Info="Minebbs我的世界中文论坛。" EventType="打开网页" EventData="https://www.minebbs.com/" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/trae.ico" Title="TRAE" Info="一个能理解需求、调动工具、独立完成各类开发任务的超级 AI 开发工程师，助你高效推进项目每一步。" EventType="打开网页" EventData="https://www.trae.cn/" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/uuyc.png" Title="网易UU远程" Info="网易资深团队出品，超低延迟多端远程控制，助你随时随地探索Minecraft。" EventType="打开网页" EventData="https://uuyc.163.com" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/trae.ico" Title="TRAE" Info="一个能理解需求、调动工具、独立完成各类开发任务的超级 AI 开发工程师，助你高效推进项目每一步。" EventType="打开网页" EventData="https://www.trae.cn/" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/uuyc.png" Title="网易UU远程" Info="网易资深团队出品，超低延迟多端远程控制，助你随时随地探索Minecraft。" EventType="打开网页" EventData="https://uuyc.163.com" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
@@ -122,12 +122,12 @@
                <StackPanel Margin="24,40,24,15">
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                		Text="以下是全球范围内热门的虚拟服务器提供商，你可以将服务端部署到以下任一提供商的服务器上。我们会提供此整合包专用的服务端。" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/server.png" Title="Mr.zhen基础整合包服务端" Info="借助贯穿全生命周期的数据连接，更快构建、部署和扩展属于你的服务端，点击链接查看详情。" EventType="打开网页" EventData="https://www.yuque.com/yuqueyonghuzmhjpo/uy7ztn/xosqrg9af4nthhe0" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/server.png" Title="Mr.zhen基础整合包服务端" Info="借助贯穿全生命周期的数据连接，更快构建、部署和扩展属于你的服务端，点击链接查看详情。" EventType="打开网页" EventData="https://www.yuque.com/yuqueyonghuzmhjpo/uy7ztn/xosqrg9af4nthhe0" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://modrinth.com/favicon.ico" Title="Modrinth服务器" Info="Modrinth 服务器是托管您自己的 Minecraft：Java 版服务器的最简单方法。" EventType="打开网页" EventData="https://modrinth.com/servers" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/aliyun.png" Title="阿里云" Info="计算，为了无法计算的价值" EventType="打开网页" EventData="https://www.aliyun.com/product/ecs" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/huawei.png" Title="华为云" Info="共建智能世界云底座" EventType="打开网页" EventData="https://www.huaweicloud.com/product/ecs.html" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/tencentcloud.png" Title="腾讯云" Info="腾讯集团倾力打造的云计算品牌" EventType="打开网页" EventData="https://cloud.tencent.com/product/cvm?Is=sdk-topnav" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/volcengine.png" Title="火山引擎" Info="字节跳动旗下云服务平台，提供云基础到智能应用的全链路支撑。" EventType="打开网页" EventData="https://www.volcengine.com/product/ecs" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/aliyun.png" Title="阿里云" Info="计算，为了无法计算的价值" EventType="打开网页" EventData="https://www.aliyun.com/product/ecs" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/huawei.png" Title="华为云" Info="共建智能世界云底座" EventType="打开网页" EventData="https://www.huaweicloud.com/product/ecs.html" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/tencentcloud.png" Title="腾讯云" Info="腾讯集团倾力打造的云计算品牌" EventType="打开网页" EventData="https://cloud.tencent.com/product/cvm?Is=sdk-topnav" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/volcengine.png" Title="火山引擎" Info="字节跳动旗下云服务平台，提供云基础到智能应用的全链路支撑。" EventType="打开网页" EventData="https://www.volcengine.com/product/ecs" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
@@ -135,14 +135,14 @@
                <StackPanel Margin="24,40,24,15">
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                		Text="以下是国内热门的AI提供商，供你选择。" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/" Type="Clickable" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/qwen.png" Title="千问" Info="阿里巴巴旗下的开源 AI 大模型，支持本地部署，本地端无需注册即可使用。" EventType="打开网页" EventData="https://www.qianwen.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/qwen.png" Title="千问" Info="阿里巴巴旗下的开源 AI 大模型，支持本地部署，本地端无需注册即可使用。" EventType="打开网页" EventData="https://www.qianwen.com/" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
 <local:MyCard  Margin="0,0,0,12" Title="关于我们" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
-          <Image Width="100" Margin="0,0,0,0" Source="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
+          <Image Width="100" Margin="0,0,0,0" Source="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/avatar.jpg"/>
           <Grid>
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
@@ -163,6 +163,6 @@
       <local:MyListItem Margin="-2,0,0,0" Logo="https://cdn.cnbj1.fds.api.mi-img.com/privacy-station/pc/favicon.ico" Title="隐私保护" Info="我们一直将用户的信息安全和隐私保护视为我们的生存之本" EventType="打开网页" EventData="https://privacy.miui.com/#/" Type="Clickable" />   
       <local:MyListItem Margin="-2,0,0,0" Logo="https://assets.stickpng.com/images/6102dadda849c40004f9a13b.png" Title="关于小米" Info="让全球每个人都能享受科技带来的美好生活" EventType="打开网页" EventData="https://www.mi.com/about" Type="Clickable" />    
 	  <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" Title="访问开发者Github主页" Info="Mr.zhen 为你解锁 更多可能" EventType="打开网页" EventData="https://github.com/Origin990" Type="Clickable" />
-	  <local:MyListItem Margin="-2,0,0,0" Logo="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/minecraft/douyin.png" Title="访问开发者抖音主页" Info="Origin起源 为你解锁 更多可能" EventType="打开网页" EventData="https://www.douyin.com/user/MS4wLjABAAAAnnWlDpPoWaO9CbmHWhqUwCWRA0HoFqBwYgyDRHY3H_0?from_tab_name=main" Type="Clickable" />
+	  <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/douyin.png" Title="访问开发者抖音主页" Info="Origin起源 为你解锁 更多可能" EventType="打开网页" EventData="https://www.douyin.com/user/MS4wLjABAAAAnnWlDpPoWaO9CbmHWhqUwCWRA0HoFqBwYgyDRHY3H_0?from_tab_name=main" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
