@@ -141,7 +141,7 @@
                <StackPanel Margin="24,40,24,15">
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                		Text="以下是国内热门的AI提供商，供你选择。" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/chat/complex" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/qwen.png" Title="千问" Info="阿里巴巴旗下的开源 AI 大模型，支持本地部署，本地端无需注册即可使用。" EventType="打开网页" EventData="https://www.qianwen.com/" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
