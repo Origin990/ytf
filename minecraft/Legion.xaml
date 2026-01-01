@@ -126,6 +126,14 @@
                </StackPanel>
 </local:MyCard>
 
+<local:MyCard Margin="0,0,0,6" Title="联机" CanSwap="True" IsSwaped="False">
+               <StackPanel Margin="24,40,24,15">
+					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
+               		Text="以下是全球范围内组网软件提供商，你可以使用他们与其它玩家进行联机。若未来PCL启动器拥有了自己的联机系统，你仍然可以选择他们。" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://proxy.gitwarp.com/https://github.com/Origin990/ytf/blob/main/minecraft/starvpn.ico" Title="星空组网" Info="国内免费的组网软件，最大支持20人联机，点击链接查看详情。" EventType="打开网页" EventData="https://starvpn.cn/" Type="Clickable" />
+               </StackPanel>
+</local:MyCard>
+
 <local:MyCard Margin="0,0,0,6" Title="服务器" CanSwap="True" IsSwaped="False">
                <StackPanel Margin="24,40,24,15">
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
