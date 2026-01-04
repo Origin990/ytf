@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://baoer.org.cn/e.xml"
 #EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="" group-title="重要公告",重要通知
-https://proxy.gitwarp.com/https://raw.githubusercontent.com/Origin990/ytf/main/preview.mp4
+http://gh.halonice.com/https://raw.githubusercontent.com/Origin990/ytf/main/preview.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -223,6 +223,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?
+
 
 
 
