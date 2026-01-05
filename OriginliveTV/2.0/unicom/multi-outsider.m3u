@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🕘️更新时间",2026-01-05 13:03:07
-http://gh.halonice.com/https://raw.githubusercontent.com/Origin990/ytf/main/OriginliveTV/2.0/multitips.mp4
+http://kr1-proxy.gitwarp.com:8081/https://raw.githubusercontent.com/Origin990/ytf/main/OriginliveTV/2.0/multitips.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺央视频道",CCTV-1 综合
 http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺央视频道",CCTV-1 综合
