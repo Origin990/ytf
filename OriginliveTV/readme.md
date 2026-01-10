@@ -2,8 +2,12 @@
 
 Mr.zhen倾力打造的直播电视播控平台
 
+探索速度与简约的极限
+
 原项目：
 [my-tv-0](https://github.com/lizongying/my-tv-0)
+
+## 产品特点
 
 ## 使用
 
