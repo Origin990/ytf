@@ -1,13 +1,19 @@
 # 起源电视
 
-Mr.zhen倾力打造的直播电视播控平台
+Mr.zhen倾力打造的直播电视集成播控平台
 
 探索速度与简约的极限
 
 原项目：
-[my-tv-0](https://github.com/lizongying/my-tv-0)
+1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
 
-## 产品特点
+2.0（感谢[yaoxieyoulei](https://github.com/yaoxieyoulei)提供源码）：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+
+## 项目背景
+
+* 发起此项目是为了弥补现代智能电视看不了直播电视的短板，这个项目在诞生之初，一直保持着无广告、免费、为爱发电的运营方式，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
+
+* 本人是这个项目的负责人与管理者，本人在GitHub自主开发的电视集成播控平台，名为「起源电视」。
 
 ## 使用
 
