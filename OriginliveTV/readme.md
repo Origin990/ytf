@@ -129,4 +129,7 @@ adb install Android-5.0+.apk
 
 停止服务后，除特殊原因外，后续可能不再重新提供服务。
 
+<center>
 Mr.zhen 为你解锁 全新可能
+</center>
+
