@@ -22,10 +22,10 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 本人仅负责将网络上的直播源进行整合，并不会对直播源中的直播内容进行安全管控。
 
-## 使用
+## 使用（1.0）
 
 * 遥控器中键/触屏单击打开视频列表
-* 遥控器右键/触屏双击打开配置
+* 遥控器菜单键/触屏双击打开配置
 * 遥控器左键/触屏长按打开节目单
 * 遥控器返回键关闭视频列表/配置
 * 在聚焦视频标题的时候，右键收藏/取消收藏
@@ -33,11 +33,23 @@ Mr.zhen倾力打造的直播电视集成播控平台
 * 如果视频源地址已配置，并且打开了“应用启动后更新视频源”后，应用启动后会自动更新视频源
 * 默认遥控器下键/触屏下滑切换到下一个视频。换台反转打开后，逻辑相反
 
+## 使用（2.0）
+
+* 遥控器中键/触屏单击打开视频列表
+* 遥控器中键长按/菜单键/触屏双击打开菜单
+* 遥控器左键/右键切换路线（直播源文件为多路线或开启超能模式后可用）
+* 遥控器返回键关闭视频列表/配置
+* 遥控器中键双击唤起可优AI（暂未上线的功能，目前无法使用，敬请期待）
+* 在聚焦视频标题的时候，右键打开当前频道的节目单，长按中键可收藏当前频道
+* 打开更多设置后，选择推送，在页面扫描二维码可以配置视频源等。也可以直接远程配置地址 http://0.0.0.0:10481 （除非绝对必要，请勿私自修改直播源，按照默认设置即可。如果这侵犯了你的隐私，请告知我们，我们会在未来删除关于你的所有信息）
+* 2.0默认开启自动更新直播源，且无法关闭。可在设置>直播源内设置直播源的缓存时间，如果视频源地址已配置，应用启动后会根据直播源缓存时间进行自动更新视频源（除非绝对必要，请勿修改此选项，按照默认设置即可。如果这侵犯了你的隐私，请告知我们，并在您的软件内的自定义直播源选项中删除所有的直播源）
+* 默认遥控器下键/触屏下滑切换到下一个视频。换台反转功能打开后，逻辑相反，软件内也有相关说明。
+
 注意：
 
 * 遇到问题可以先考虑重启/恢复默认/清除数据/重新安装等方式自助解决
 * 视频源可以设置为本地文件，格式如：file:///mnt/sdcard/tmp/channels.m3u
-  /channels.m3u
+  /channels.m3u（2.0暂未测试）
 * 为了使用方便，只支持设置3位频道号
 * 目前设置代理后，需要重启生效。代理属于全局代理，也就是视频请求及其他请求都会使用代理。
 
@@ -82,14 +94,14 @@ Mr.zhen倾力打造的直播电视集成播控平台
 我们提供安卓4.4兼容版本（2.0版本仅兼容Android5.0+系统版本）。
 
 1.0：
-![image](./screenshots/MuMu-20251002-101712-513.png)
-![image](./screenshots/MuMu-20251002-101749-620.png)
-![image](./screenshots/MuMu-20251002-101810-532.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101712-513.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101749-620.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101810-532.png)
 
 2.0：
-![image](./screenshots/2.0-1.png)
-![image](./screenshots/2.0-2.png)
-![image](./screenshots/2.0-3.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-1.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-2.png)
+![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-3.png)
 
 ## 安装
 
