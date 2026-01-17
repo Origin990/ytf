@@ -4,7 +4,7 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 一款基于云端技术融合式、支持播放流媒体的软件。
 
-原项目：
+## 原项目：
 
 1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
 
