@@ -77,10 +77,12 @@
           <local:MyListItem Margin="-2,0,0,0" Logo="https://leai.lenovo.com.cn/assets/logo-Dt7xH3Fc.png" Title="联想乐享AI" Info="联想多模态智能引擎，突破传统交互边界，提供自动化全场景服务和企业智能体解决方案。" EventType="打开网页" EventData="https://leai.lenovo.com.cn/" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
+
 <local:MyCard Margin="0,0,0,6" Title="整合包差异说明" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
 	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                Text="我们的整合包与“乌托邦探险之旅”没有从属关系，也没有从中借鉴内容，整合包内所有模组均由我们单独挑选调试，请勿加以比较。" />
+	 <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" Title="整合包集中反馈专区" Info="点击链接跳转到Github提交issue" EventType="打开网页" EventData="https://github.com/Origin990/ytf/issues/1" Type="Clickable" />
 	 </StackPanel>
 </local:MyCard>
 
