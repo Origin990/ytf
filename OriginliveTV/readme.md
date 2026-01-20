@@ -93,7 +93,7 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 我们提供安卓4.4兼容版本（2.0版本仅兼容Android5.0+系统版本）。
 
-注意！以下内容仅作为实机演示，代表本软件内置了初始直播源。
+注意！以下内容仅作为实机演示，不代表本软件内置了初始直播源。
 
 1.0：
 ![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101712-513.png)
