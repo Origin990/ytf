@@ -58,6 +58,7 @@
      <StackPanel Margin="24,40,24,15">
 	 <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                Text="我们的整合包与“乌托邦探险之旅”没有从属关系，也没有从中借鉴内容，整合包内所有模组均由我们单独挑选调试，请勿加以比较。" />
+	 <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" Title="整合包集中反馈专区" Info="点击链接跳转到Github提交issue" EventType="打开网页" EventData="https://github.com/Origin990/ytf/issues/1" Type="Clickable" />
 	 </StackPanel>
 </local:MyCard>
 
