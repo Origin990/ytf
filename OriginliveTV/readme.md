@@ -10,6 +10,8 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 2.0（感谢[yaoxieyoulei](https://github.com/yaoxieyoulei)提供源码）：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
+2.0图标的设计灵感来自这里[miyoushe](https://m.miyoushe.com/sr?channel=miyousheluodi/#/article/64580342)
+
 ## 项目背景
 
 * 发起此项目是为了弥补现代智能电视看不了直播电视的短板以及解决老年群体观看电视的种种障碍，这个项目在诞生之初，一直保持着无广告、免费、为爱发电的运营方式，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
