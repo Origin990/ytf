@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="16%" align="center" src="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/OriginliveTV/2.0logo.png" alt="logo">
+  <img width="16%" align="center" src="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/2.0logo.png" alt="logo">
 </p>
 <h1 align="center">
   起源电视
