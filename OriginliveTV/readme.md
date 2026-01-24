@@ -11,13 +11,15 @@ Mr.zhen倾力打造的直播电视集成播控平台
 一款基于云端技术融合式、支持播放流媒体的软件。
 </p>
 
-## 原项目：
+## 简介
+
+「起源电视」可以帮助现代智能电视直接以播放流媒体的方式观看国内直播电视。
+
+> 2.0图标的设计灵感来自这里<a href="https://www.miyoushe.com/sr/article/64580342" target="_blank">miyoushe</a>
 
 1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
 
 2.0（感谢[yaoxieyoulei](https://github.com/yaoxieyoulei)提供源码）：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
-
-> 2.0图标的设计灵感来自这里<a href="https://www.miyoushe.com/sr/article/64580342" target="_blank">miyoushe</a>
 
 ## 「起源电视」为何而生？
 
