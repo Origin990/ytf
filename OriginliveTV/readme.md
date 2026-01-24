@@ -1,9 +1,15 @@
-# 起源电视
-
+<p align="center">
+  <img width="16%" align="center" src="http://gh.halonice.com/https://github.com/Origin990/ytf/blob/main/OriginliveTV/2.0logo.png" alt="logo">
+</p>
+<h1 align="center">
+  起源电视
+</h1>
+<p align="center">
 Mr.zhen倾力打造的直播电视集成播控平台
-
+</p>
+<p align="center">
 一款基于云端技术融合式、支持播放流媒体的软件。
-
+</p>
 ## 原项目：
 
 1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
@@ -12,7 +18,7 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 2.0图标的设计灵感来自这里[miyoushe](https://www.miyoushe.com/sr/article/64580342)
 
-## 项目背景
+## 「起源电视」为何而生？
 
 * 发起此项目是为了弥补现代智能电视看不了直播电视的短板以及解决老年群体观看电视的种种障碍，这个项目在诞生之初，一直保持着无广告、免费、为爱发电的运营方式，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
 
