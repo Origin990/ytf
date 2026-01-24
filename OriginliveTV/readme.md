@@ -17,7 +17,7 @@ Mr.zhen倾力打造的直播电视集成播控平台
 
 2.0（感谢[yaoxieyoulei](https://github.com/yaoxieyoulei)提供源码）：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-2.0图标的设计灵感来自这里[miyoushe](https://www.miyoushe.com/sr/article/64580342)
+> 2.0图标的设计灵感来自这里[miyoushe](https://www.miyoushe.com/sr/article/64580342)
 
 ## 「起源电视」为何而生？
 
