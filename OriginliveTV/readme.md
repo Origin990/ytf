@@ -12,7 +12,7 @@
 
 「起源电视」可以帮助现代智能电视直接以播放流媒体的方式收看国内直播电视。
 
-> 2.0图标的设计灵感来自这里<a href="https://www.miyoushe.com/sr/article/64580342" target="_blank">miyoushe</a>
+> 2.0图标的设计灵感来自这里<a href="https://www.miyoushe.com/sr/article/64580342" target="_blank">miyoushe</a>。
 
 1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
 
