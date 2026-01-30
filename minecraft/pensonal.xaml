@@ -39,7 +39,7 @@
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
 			   <local:MyButton Grid.Column="0" Margin="0,12,10,0" Height="35" Text="启动Reduce Memory"
-                    EventType="打开文件" EventData="mod help.html" ToolTip="系统内存一键清理自动清理工具" />
+                    EventType="打开文件" EventData="ReduceMemory\ReduceMemory_x64.exe" ToolTip="系统内存一键清理自动清理工具" />
                   <local:MyButton Grid.Column="1" Margin="0,12,0,0" Height="35" Text="打开任务管理器"
                     EventType="执行命令" EventData="taskmgr.exe" ToolTip="查看当前电脑的运行情况。" />
           </Grid>
