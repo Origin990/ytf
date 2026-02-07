@@ -40,8 +40,8 @@
                </Grid.ColumnDefinitions>
 			   <local:MyButton Grid.Column="0" Margin="0,12,10,0" Height="35" Text="启动Reduce Memory"
                     EventType="打开文件" EventData="ReduceMemory\ReduceMemory_x64.exe" ToolTip="系统内存一键清理自动清理工具" />
-                  <local:MyButton Grid.Column="1" Margin="0,12,0,0" Height="35" Text="打开任务管理器"
-                    EventType="执行命令" EventData="taskmgr.exe" ToolTip="查看当前电脑的运行情况。" />
+                  <local:MyButton Grid.Column="1" Margin="0,12,0,0" Height="35" Text="启动基岩版"
+                    EventType="打开网页" EventData="minecraft://" ToolTip="启动Minecraft Bedrock Edition。" />
           </Grid>
 		  <TextBlock TextWrapping="Wrap" Margin="0,15,0,4"
                Text="整合包安装了Modern UI，并设置了字体，为了能够显示正确的字体，请点击下面的按钮安装字体。" />
