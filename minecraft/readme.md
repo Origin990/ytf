@@ -2,7 +2,7 @@
 
 # <center> Mr.zhen自研优化版本
 
-Mr.zhen旗下性能先锋整合包，给为基于Fabric端深度打造，Minecraft Java版玩家提供极致的游戏体验。
+Mr.zhen旗下性能先锋整合包，秉承“天空即为极限”的理念，为Minecraft Java版玩家提供极致的游戏体验。
 
 # 使用
 
