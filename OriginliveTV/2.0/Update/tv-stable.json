@@ -1,0 +1,9 @@
+{
+  "tag_name": "v2.2.8",
+  "body": "新增功能：\n1. 支持4K视频播放\n2. 优化加载速度\n3. 修复已知bug",
+  "assets": [
+    {
+      "browser_download_url": "http://kr1-proxy.gitwarp.top:8081/https://github.com/Origin990/ytf/OriginliveTV/2.0/Update/v2.2.8/update.apk"
+    }
+  ]
+}
