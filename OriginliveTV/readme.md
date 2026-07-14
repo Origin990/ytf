@@ -20,15 +20,13 @@
 
 ## 「起源电视」为何而生？
 
-* 发起此项目是为了弥补现代智能电视无法观看直播电视的短板，以及解决老年群体观看电视的种种障碍，这个项目在诞生之初，一直保持着无广告、免费、为爱发电的运营方式，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
+* 发起此项目是为了弥补现代智能电视无法观看直播电视的短板，以及解决老年群体观看电视的种种障碍，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
 
-* 本人是这个项目的负责人与管理者，在GitHub自主开发的电视集成播控平台，即取名为「起源电视」。
+* 本人是这个项目的负责人与管理者，在GitHub自主开发的项目，即取名为「起源电视」。
 
-## 注意事项
+## 声明
 
-文件中的所有直播源均来自网络。
-
-本人仅负责将网络上的直播源进行整合，并不会对直播源中的直播内容进行安全管控。
+此项目（起源电视）是个人为了兴趣而开发, 仅用于学习和测试。 所用API皆从官方网站收集, 不提供任何破解内容。
 
 ## 使用（1.0）
 
@@ -102,18 +100,6 @@
 
 我们提供安卓4.4兼容版本（2.0版本仅兼容Android5.0+系统版本）。
 
-注意！以下内容仅作为实机演示，不代表本软件内置了初始直播源。
-
-1.0：
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101712-513.png)
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101749-620.png)
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/MuMu-20251002-101810-532.png)
-
-2.0：
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-1.png)
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-2.png)
-![image](http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/screenshots/2.0-3.png)
-
 ## 安装
 
 从本站下载安装包到U盘，再插入到电视的任意的USB接口，打开电视上的任意文件管理器（建议使用当贝市场）进行安装。
@@ -130,23 +116,9 @@ adb install Android-5.0+.apk
 
 部分电视（如海信电视）安装完成后，U盘文件会出现损坏或乱码的问题，此问题可以通过Windows自带的“查错”功能进行修复。建议使用空U盘进行安装。
 
-## 常见问题
+## 项目的变更或中止
 
-* 为什么远程配置视频源文本后，再次打开应用后又恢复到原来的配置？
-
-  如果“应用启动后更新视频源”开启后，且存在视频源地址，则会自动更新，可能会覆盖已保存的视频源文本。
-
-* 为什么我在安装时提示解析包时出现问题？
-
-  我们在上传软件时已分为两种安卓版本，出现此问题的原因是您在Android4.4设备安装时使用了只兼容安卓5.0以上的安装包。
-
-* 直播无法播放？
-
-  软件是否可以正常播放直播取决于直播源。
-
-## 服务的变更或中止
-
-发生下列情形之一时，开发者有权终止或中断本项目全部服务：
+发生下列情形之一时，开发者有权终止或删除本项目：
 
 1. 因本项目及服务自身的需要；
 
