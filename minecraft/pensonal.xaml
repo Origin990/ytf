@@ -174,10 +174,10 @@
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
-                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Mr.zhen旗下运营主账号"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,35,0,0" Text="始终坚持做感动人心、流畅好用的好产品。"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活。"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="同时，Mr.zhen也在运营起源电视小型公益项目"/>
+                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Mr.zhen名下运营主账号"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,35,0,0" Text="始终坚持做感动人心、流畅好用的好产品"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="未来将继续坚持“天空即为极限”的理念，为用户打造极致的产品"/>
           </Grid>
 		  	 <TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
@@ -187,3 +187,5 @@
 	  <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/douyin.png" Title="访问开发者抖音主页" Info="Origin起源 为你解锁 更多可能" EventType="打开网页" EventData="https://www.douyin.com/user/MS4wLjABAAAAnnWlDpPoWaO9CbmHWhqUwCWRA0HoFqBwYgyDRHY3H_0?from_tab_name=main" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
+<local:MyHint Margin="0,0,0,10" IsWarn="False"
+               Text="Never Settle." />
