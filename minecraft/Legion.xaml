@@ -122,7 +122,7 @@
                     <local:MyListItem Margin="-2,0,0,0" ToolTip="你所在的地区可能无法访问此链接。" Logo="https://static-beta.curseforge.com/images/cf_legacy.png" Title="CurseForge" Info="一个为模组制作者和游戏玩家提供无限游戏可能性的世界。" EventType="打开网页" EventData="https://www.curseforge.com/minecraft" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" Title="Minebbs" Info="Minebbs我的世界中文论坛。" EventType="打开网页" EventData="https://www.minebbs.com/" Type="Clickable" />
 					<local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/litematica-farm.png" Title="投影工坊" Info="专业的Litematica投影文件下载与分享平台。" EventType="打开网页" EventData="https://www.mcimg.com/" Type="Clickable" />
-					<local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/trae.ico" Title="TRAE" Info="一个能理解需求、调动工具、独立完成各类开发任务的超级 AI 开发工程师，助你高效推进项目每一步。" EventType="打开网页" EventData="https://www.trae.cn/" Type="Clickable" />
+					<local:MyListItem Margin="-2,0,0,0" ToolTip="一个能理解需求、调动工具、独立完成各类开发任务的超级 AI 开发工程师，助你高效推进整合包项目每一步。" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/trae.ico" Title="TRAE" Info="“Mr.zhen自研优化版本”整合包开发最强队友" EventType="打开网页" EventData="https://www.trae.cn/" Type="Clickable" />
 					<local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/uuyc.png" Title="网易UU远程" Info="网易资深团队出品，超低延迟多端远程控制，助你随时随地探索Minecraft。" EventType="打开网页" EventData="https://uuyc.163.com" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
@@ -132,6 +132,7 @@
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                		Text="以下是全球范围内组网软件提供商，你可以使用他们与其它玩家进行联机。若未来PCL启动器拥有了自己的联机系统，你仍然可以选择他们。" />
                     <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/starvpn.ico" Title="星空组网" Info="国内免费的组网软件，最大支持20人联机，点击链接查看详情。" EventType="打开网页" EventData="https://starvpn.cn/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/iepose.png" Title="节点小宝" Info="免费内网穿透与异地组网工具，最大支持添加20台设备，允许4台设备授权组网，点击链接查看详情。" EventType="打开网页" EventData="https://iepose.com/" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
@@ -152,8 +153,12 @@
                <StackPanel Margin="24,40,24,15">
 					<TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                		Text="以下是国内热门的AI提供商，供你选择。" />
-                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/doubao.png" Title="豆包" Info="字节跳动旗下 AI 智能助手，支持使用抖音和Apple账户登录。" EventType="打开网页" EventData="https://www.doubao.com/chat/complex" Type="Clickable" />
                     <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/qwen.png" Title="千问" Info="阿里巴巴旗下的开源 AI 大模型，支持本地部署，本地端无需注册即可使用。" EventType="打开网页" EventData="https://www.qianwen.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/deepseek-color.png" Title="DeepSeek" Info="由杭州深度求索自研的国产大模型" EventType="打开网页" EventData="https://www.deepseek.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/deepseek.png" Title="DeepSeek开放平台" Info="调用 DeepSeek 最新模型，快速集成、流畅体验" EventType="打开网页" EventData="https://platform.deepseek.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="https://img.alicdn.com/imgextra/i3/O1CN01JJdN1q1YO2LyUcGwF_!!6000000003048-2-tps-48-48.png" Title="千问AI平台" Info="企业级 AI 大模型服务平台" EventType="打开网页" EventData="https://www.qianwenai.com/" Type="Clickable" />
+                    <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/volcengine.png" Title="火山方舟" Info="火山引擎一站式大模型服务平台" EventType="打开网页" EventData="https://ark.volcengine.com/region:cn-beijing/overview" Type="Clickable" />
                </StackPanel>
 </local:MyCard>
 
@@ -170,10 +175,10 @@
                <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
                </Grid.ColumnDefinitions>
-                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Mr.zhen旗下运营主账号"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,35,0,0" Text="始终坚持做感动人心、流畅好用的好产品。"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活。"/>
-					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="同时，Mr.zhen也在运营起源电视小型公益项目"/>
+                    <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,12,0,0" Text="Mr.zhen名下运营主账号"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,35,0,0" Text="始终坚持做感动人心、流畅好用的好产品"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,55,0,0" Text="让每个人都能享受科技带来的美好生活"/>
+					<TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0,75,0,0" Text="未来将继续坚持“天空即为极限”的理念，为用户打造极致的产品"/>
           </Grid>
 		  	 <TextBlock TextWrapping="Wrap" Margin="0,10,0,4"
                Text="隐私是每个人的基本权利，同时也是我们的一项核心价值观。因此，我们设计产品和服务的理念就是保护隐私，并坚信这才是真正的创新。" />
@@ -183,3 +188,6 @@
 	  <local:MyListItem Margin="-2,0,0,0" Logo="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/minecraft/douyin.png" Title="访问开发者抖音主页" Info="Origin起源 为你解锁 更多可能" EventType="打开网页" EventData="https://www.douyin.com/user/MS4wLjABAAAAnnWlDpPoWaO9CbmHWhqUwCWRA0HoFqBwYgyDRHY3H_0?from_tab_name=main" Type="Clickable" />
      </StackPanel>
 </local:MyCard>
+<local:MyHint Margin="0,0,0,10" IsWarn="False"
+               Text="Never Settle." />
+
