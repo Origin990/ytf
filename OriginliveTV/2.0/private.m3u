@@ -1,37 +1,37 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV6.png" group-title="央视",CCTV-6 电影
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV9.png" group-title="央视",CCTV-9 纪录
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV10.png" group-title="央视",CCTV-10 科教
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV13.png" group-title="央视",CCTV-13 新闻
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV15.png" group-title="央视",CCTV-15 音乐
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="凤凰中文" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/gangaotai/Phoenix3.png" group-title="港澳台",凤凰中文
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
@@ -179,7 +179,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/tv/浙江新闻.png" group-title="❓最后未分类",浙江新闻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/cctv/CCTV14.png" group-title="❌失效频道",CCTV-14 少儿
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="❌失效频道",CCTV-14 少儿
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="浙江卫视" tvg-logo="http://192.168.3.76:8085/iptv/epglogo/weishi/Zhejiang.png" group-title="❌失效频道",浙江卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
