@@ -1,6 +1,6 @@
 {
   "tag_name": "v2.2.8",
-  "body": "计划近期整体调整 API 服务，预计调整范围较大，\n请合理安排您的使用。\n具体方案以正式通知为准。",
+  "body": "计划近期整体调整 API 服务。\n具体方案以正式通知为准。",
   "assets": [
     {
       "browser_download_url": "http://192.168.3.167:8085/Update.apk"
