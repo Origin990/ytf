@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="16%" align="center" src="http://jp-proxy.gitwarp.top:3000/https://github.com/Origin990/ytf/blob/main/OriginliveTV/2.0logo.png" alt="logo">
+  <img width="16%" align="center" src="https://gh.gitwarp.top/https://github.com/Origin990/ytf/blob/main/OriginliveTV/2.0logo.png" alt="logo">
 </p>
 <h1 align="center">
   起源电视
@@ -12,21 +12,10 @@
 
 「起源电视」可以帮助现代智能电视直接以播放流媒体的方式收看国内直播电视。
 
-> 2.0图标的设计灵感来自这里<a href="https://m.miyoushe.com/ys?channel=miyousheluodi/#/article/73761432" target="_blank">miyoushe</a>。
-
-1.0（感谢[lizongying](https://github.com/lizongying)提供源码）：[my-tv-0](https://github.com/lizongying/my-tv-0)
-
-2.0（感谢[yaoxieyoulei](https://github.com/yaoxieyoulei)提供源码）：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
-
-## 「起源电视」为何而生？
-
-* 发起此项目是为了弥补现代智能电视无法观看直播电视的短板，以及解决老年群体观看电视的种种障碍，探索世界的智能电视更应如此，秉着效率至上的信条，为你带来本该享受的极速观看体验。
-
-* 本人是这个项目的负责人与管理者，在GitHub自主开发的项目，即取名为「起源电视」。
-
 ## 免责声明
 
 本项目（起源电视）是个人为了兴趣而开发，仅用于学习和测试。 所用API皆从官方网站收集，不提供任何破解内容。
+
 基于原项目二次开发的软件本体仅为本地家庭用户提供，如你需要在本地电视安装，请转到原项目：[mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
 ## 使用（1.0）
